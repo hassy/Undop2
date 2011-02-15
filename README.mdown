@@ -1,0 +1,18 @@
+Undop2
+------
+
+**Want to waste less time on the web? Undop2 to the rescue!**
+
+To quote [Patrick Collison](http://collison.ie/blog/2009/08/undop):
+
+*"I’ve never had much luck with the apps that set out to solve this, like Freedom or RescueTime. They feel too heavy-handed. Instead, I want fairly repetitive and annoying prods that make wasting time less fun—the equivalent of small electric shocks, counterbalancing the Dopamine hits."*
+
+Every time you visit a bad site[1] your display will be dimmed. Annoying, and probably not good for the display long-term. So don't do it.
+
+Improvement over original Undop: will catch any browser, not just Safari. Still OSX only though.
+
+**Usage:** download, run `sudo python undop2.py`
+
+**Footnotes:**
+
+1. Default list: twitter.com, news.ycombinator.com, reddit.com, facebook.com
