@@ -1,7 +1,7 @@
 Undop2
 ------
 
-**Want to waste less time on the web? Undop2 to the rescue!**
+**Want to waste less time on the web? Undop2 to the rescue!** (OSX only)
 
 To quote [Patrick Collison](http://collison.ie/blog/2009/08/undop):
 
@@ -9,7 +9,7 @@ To quote [Patrick Collison](http://collison.ie/blog/2009/08/undop):
 
 Every time you visit a bad site[1] your display will be dimmed. Annoying, and probably not good for the display long-term. So don't do it.
 
-Improvement over original Undop: will catch any browser, not just Safari. Still OSX only though.
+Improvement over original Undop: Undop2 **will** catch you in any browser, not just Safari.
 
 **Usage:** download, run `sudo python undop2.py`
 
