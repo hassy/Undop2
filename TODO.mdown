@@ -2,7 +2,6 @@ Eventually there should be a GUI app (Pycocoa or something), but in the meantime
 
 - Test on several Macs
 - Simpler way to manage bad sites (~/.bad_sites like original Undop?)
-- Compatibility with other browsers. Chrome?
 - Plugins to annoy:
   - Growl something
   - Eject CD (the noise is annoying)
@@ -11,3 +10,5 @@ Eventually there should be a GUI app (Pycocoa or something), but in the meantime
   - Dim an external display
 
   The possibilites are endless here.
+  
+- Perhaps use tuntap/libpcap instead of tcpdump.
